@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👯 Estou procurando colaborar em ... Uma empresa
 - 🤔 Estou procurando ajuda com ... Um emprego
 - 📫 Como entrar em contato comigo:  ... Gmail- lale7ra@gmail
-- ⚡ Curiosidade: ... nenhum
+- ⚡ Curiosidade: ... sou sociavel
 
