@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 Como entrar em contato comigo:  ... Gmail- lale7ra@gmail
 - ⚡ Curiosidade: ... sou sociavel
 
--a href="https://github.com/user-attachments/files/16734155/meu.curriculo.pdf" class="nav-link"
+<a href="https://github.com/user-attachments/files/16734155/meu.curriculo.pdf" class="nav-link">**curriculo**</a>
