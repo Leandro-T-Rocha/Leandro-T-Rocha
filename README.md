@@ -1,4 +1,4 @@
-[logo]([Uploading logo_senai.htm…])
+[logo][Uploading logo_senai.htm…]()
 
 ## Hi there 👋
 
