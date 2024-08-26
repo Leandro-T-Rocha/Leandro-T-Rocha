@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Curiosidade: ... sou sociavel
 
 <a href="https://github.com/Leandro-T-Rocha/Leandro-T-Rocha/blob/main/C%C3%B3pia%20de%20C%C3%B3pia%20de%20meu%20curr%C3%ADculo.pdf.pdf" class="nav-link">**curriculo**</a>
+<div style ="display: inline_block"><br/>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&quot; />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&quot; />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&quot; />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&quot; />
+</div>
