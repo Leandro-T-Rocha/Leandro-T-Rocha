@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <!- <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&quot"; />
 </div>
 ->
+[![Leandro-T-Rocha)](https://github.com/crisFiep/github-readme-stats)
